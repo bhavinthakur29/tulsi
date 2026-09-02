@@ -1,0 +1,104 @@
+# TULSI Proprietary Software License
+
+Copyright © 2026 TekSquad. All rights reserved.
+
+## 1. Ownership
+
+TULSI ("Taskable Unified Logic and Synthetic Intelligence"), including its
+software, source code, binaries, architecture, interfaces, documentation,
+branding, visual assets, and associated proprietary materials, is the
+property of TekSquad unless otherwise stated.
+
+## 2. Permitted Use
+
+Subject to the terms of this license, users who lawfully obtain an
+officially distributed version of TULSI are permitted to use the software
+for personal, educational, research, development, and commercial purposes.
+
+This permission applies only to the use of an officially distributed
+version of the software.
+
+## 3. Restrictions
+
+Unless expressly authorised in writing by TekSquad, you may not:
+
+* copy or redistribute the TULSI source code;
+* modify, adapt, or create derivative versions of the TULSI software;
+* reverse engineer, decompile, disassemble, or attempt to obtain the
+  source code or proprietary implementation of TULSI, except where such
+  restriction is prohibited by applicable law;
+* reproduce or recreate the proprietary implementation of TULSI;
+* redistribute, sublicense, sell, lease, or otherwise distribute TULSI
+  or substantial portions of it as a separate product;
+* remove or alter copyright, trademark, attribution, or proprietary
+  notices;
+* use the TULSI name, logo, or branding to represent an unofficial
+  version, fork, derivative, or reproduction as the official TULSI
+  project;
+* use proprietary TULSI implementation details to create a competing
+  product.
+
+## 4. No Source Code License
+
+This license does not grant access to, or rights to use, reproduce,
+modify, or distribute the TULSI source code.
+
+Publication of documentation, project information, binaries, releases,
+or other materials does not constitute publication of the TULSI source
+code or a grant of source-code rights.
+
+## 5. Third-Party Components
+
+TULSI may include or interact with third-party software, libraries,
+models, runtimes, or other components that are distributed under their
+own licenses.
+
+Those components remain subject to their respective licenses.
+
+Nothing in this license overrides the terms of a third-party license.
+
+## 6. Trademarks and Branding
+
+"TULSI", "Taskable Unified Logic and Synthetic Intelligence", the TULSI
+logo, and associated branding are not licensed for use as trademarks or
+project identifiers except where expressly permitted by TekSquad.
+
+Permission to use TULSI software does not grant permission to use the
+TULSI name or branding for an independent implementation, derivative
+project, or competing product.
+
+## 7. Warranty Disclaimer
+
+TULSI is provided on an "AS IS" and "AS AVAILABLE" basis, to the maximum
+extent permitted by applicable law.
+
+TekSquad makes no warranties, express or implied, regarding the software's
+fitness for a particular purpose, reliability, availability, or
+performance.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, TekSquad shall not be
+liable for any indirect, incidental, special, consequential, or other
+damages arising from the use of, or inability to use, TULSI.
+
+## 9. Termination
+
+Any rights granted under this license terminate automatically if you
+violate its terms.
+
+Upon termination, you must cease any use or distribution that is no
+longer authorised under this license.
+
+## 10. Reservation of Rights
+
+All rights not expressly granted by this license are reserved by TekSquad.
+
+Additional permissions may be granted by TekSquad in writing.
+
+---
+
+**TULSI**
+Taskable Unified Logic and Synthetic Intelligence
+
+Copyright © 2026 TekSquad. All rights reserved.
