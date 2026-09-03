@@ -196,10 +196,12 @@ Each layer is being developed and validated before the next layer is introduced.
 * [x] System prompt preservation during context trimming
 * [x] Inference error handling
 * [x] Configurable inference parameters
+* [x] Engine configuration
+* [x] Engine lifecycle management
 
 ### User Experience
 
-* [ ] Headless AI engine
+* [x] Headless AI engine
 * [ ] Unified graphical interface
 * [ ] Native-looking desktop experience
 * [ ] Portable TULSI launcher
@@ -224,7 +226,6 @@ Each layer is being developed and validated before the next layer is introduced.
 * [ ] Automatic hardware-aware configuration
 
 > The roadmap is subject to change as development progresses.
-
 ---
 
 ## Project Philosophy
