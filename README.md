@@ -198,6 +198,7 @@ Each layer is being developed and validated before the next layer is introduced.
 * [x] Configurable inference parameters
 * [x] Engine configuration
 * [x] Engine lifecycle management
+* [x] CLI end-to-end validation
 
 ### User Experience
 
