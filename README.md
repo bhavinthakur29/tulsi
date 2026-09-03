@@ -178,43 +178,50 @@ Each layer is being developed and validated before the next layer is introduced.
 
 ### Foundation
 
-- [x] Hardware detection
-- [x] Runtime discovery
-- [x] Backend detection
-- [x] GGUF model discovery
-- [x] Model selection
-- [x] Model capability inspection
-- [x] Local inference
-- [x] Runtime lifecycle management
-- [x] Runtime health checks
-- [x] Conversation context
-- [x] Token-aware context management
+* [x] Hardware detection
+* [x] Runtime discovery
+* [x] Backend detection
+* [x] GGUF model discovery
+* [x] Model selection
+* [x] Model capability inspection
+* [x] Model-aware context configuration
+* [x] Local inference
+* [x] Runtime lifecycle management
+* [x] Runtime health checks
+* [x] Conversation context
+* [x] Token-aware context budgeting
+* [x] Incoming message context validation
+* [x] Automatic context trimming
+* [x] Complete-turn preservation during context trimming
+* [x] System prompt preservation during context trimming
+* [x] Inference error handling
+* [x] Configurable inference parameters
 
 ### User Experience
 
-- [ ] Headless AI engine
-- [ ] Unified graphical interface
-- [ ] Native-looking desktop experience
-- [ ] Portable TULSI launcher
-- [ ] Remove terminal dependency from normal operation
+* [ ] Headless AI engine
+* [ ] Unified graphical interface
+* [ ] Native-looking desktop experience
+* [ ] Portable TULSI launcher
+* [ ] Remove terminal dependency from normal operation
 
 ### Intelligence
 
-- [ ] Local project context
-- [ ] File and project indexing
-- [ ] Long-term local memory
-- [ ] Retrieval capabilities
-- [ ] Local developer tools
-- [ ] Tool execution
-- [ ] Agent workflows
+* [ ] Local project context
+* [ ] File and project indexing
+* [ ] Long-term local memory
+* [ ] Retrieval capabilities
+* [ ] Local developer tools
+* [ ] Tool execution
+* [ ] Agent workflows
 
 ### Portability
 
-- [ ] Windows
-- [ ] Linux
-- [ ] macOS
-- [ ] Additional architectures
-- [ ] Automatic hardware-aware configuration
+* [ ] Windows
+* [ ] Linux
+* [ ] macOS
+* [ ] Additional architectures
+* [ ] Automatic hardware-aware configuration
 
 > The roadmap is subject to change as development progresses.
 
